@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+# Le corpus (supports de cours de mes enseignants) et tout ce qui en dérive
+# restent en local : ils ne m'appartiennent pas.
+donnees/
+config.local.json

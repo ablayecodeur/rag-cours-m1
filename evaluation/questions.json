@@ -1,0 +1,17 @@
+[
+  {"id": "maven-phases", "type": "dans-les-cours", "question": "À quoi sert la phase package de Maven ?", "source": {"fichier": "3 Maven.pdf", "page": 8}},
+  {"id": "bdr-fragmentation", "type": "dans-les-cours", "question": "Quelle est la différence entre la fragmentation horizontale et la fragmentation verticale dans une base de données répartie ?", "source": {"fichier": "Chap_Conception_BDR.pdf", "page": 32}},
+  {"id": "bdr-avantages", "type": "dans-les-cours", "question": "Quels sont les inconvénients de l'approche base de données répartie ?", "source": {"fichier": "Chap_Conception_BDR.pdf", "page": 7}},
+  {"id": "api-rest", "type": "dans-les-cours", "question": "Qu'est-ce qu'une API REST ?", "source": {"fichier": "Presentation_SOA_MICROSER_CLOUD.pdf", "page": 48}},
+  {"id": "dart-collections", "type": "dans-les-cours", "question": "Quelles sont les deux collections les plus utilisées en Dart ?", "source": {"fichier": "Chap 3 Dart.pdf", "page": 18}},
+  {"id": "dart-lambda", "type": "dans-les-cours", "question": "Qu'est-ce qu'une fonction fléchée en Dart ?", "source": {"fichier": "Chap 3 Dart.pdf", "page": 31}},
+  {"id": "note-cadrage", "type": "dans-les-cours", "question": "Quel document sort de l'étude préalable d'un projet, et qui le valide ?", "source": {"fichier": "Cours complet.pdf", "page": 8}},
+  {"id": "xml-schema", "type": "dans-les-cours", "question": "Par quoi commence un schéma XML ?", "source": {"fichier": "Cours_XMLSchema.pdf", "page": 5}},
+
+  {"id": "piege-docker", "type": "piege-hors-cours", "question": "Comment déployer une application avec Docker Compose ?"},
+  {"id": "piege-kubernetes", "type": "piege-hors-cours", "question": "Qu'est-ce qu'un Operator dans Kubernetes ?"},
+  {"id": "piege-mqtt", "type": "piege-hors-cours", "question": "Comment fonctionne le protocole MQTT ?"},
+  {"id": "piege-graphql", "type": "piege-proche", "question": "Quelle est la différence entre REST et GraphQL ?"},
+  {"id": "piege-maven-optimize", "type": "piege-proche", "question": "À quoi sert la phase optimize de Maven ?"},
+  {"id": "piege-oracle-prix", "type": "piege-proche", "question": "Quel est le prix d'une licence Oracle 19c ?"}
+]

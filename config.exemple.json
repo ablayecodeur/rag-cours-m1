@@ -1,0 +1,8 @@
+{
+  "dossier_corpus": "/chemin/vers/vos/cours",
+  "exclure": ["rapport", "compte rendu", "projet", "exo", "evaluation", "tp "],
+  "modele_embeddings": "bge-m3",
+  "modele_generation": "qwen2.5:7b",
+  "passages_par_question": 4,
+  "seuil_pertinence": 0.5
+}
